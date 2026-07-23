@@ -100,16 +100,6 @@
 <br/>
 <br/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=deepakydv641&theme=cobalt&hide_border=false&border_radius=10)
-
-<br/>
-<br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakydv641&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=10)
-
-<br/>
-<br/>
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepakydv641&theme=cobalt&hide_border=false&border_radius=10)
 
 </div>
