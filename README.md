@@ -4,7 +4,7 @@
 
 </div>
 
-### <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Deepak.;💻+A+software+developer;🚀+Full-Stack+Engineer;🔥+Problem+Solver;📚+Lifelong+Learner)](https://github.com/deepakydv641)</div>
+### <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Deepak.;💻+A+software+developer;🚀+Full-Stack+Developer;🔥+Passionate in learning new Techno;📚+Lifelong+Learner)](https://github.com/deepakydv641)</div>
 
 <br/>
 
