@@ -1,157 +1,70 @@
-<div align="center">
+# Hi, I'm Deepak 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E800FD&center=true&width=435&lines=%3C%F0%9F%91%8B+Hello%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Hi%2C+I%27m+here!+%2F%3E;%3C%F0%9F%91%8B+Welcome+to+my+GitHub!+%2F%3E)](https://github.com/deepakydv641)
-
-</div>
-
-### <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Deepak.;💻+A+software+developer;🚀+Full-Stack+Developer;🔥+Passionate in learning new Techno;📚+Lifelong+Learner)](https://github.com/deepakydv641)</div>
-
-<br/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007ACC&background=FFFFFF00&center=true&width=800&height=90&lines=Hi%2C+I'm+Deepak+Yadav;I'm+building+cool+tech+and+refining+my+coding+skills;Let's+collaborate!)
 
 ---
 
-# 💫 About Me:
-
-🔭 **Currently Building:** I'm actively working on exciting projects to sharpen my full-stack development skills and explore cutting-edge technologies.
-
-👯 **Open to Collaboration:** I'm enthusiastic about contributing to open-source projects and collaborating with developers who share a passion for clean code and innovation.
-
-🤝 **Always Learning:** I believe in continuous growth and love connecting with others in the tech community to exchange ideas and learn new approaches.
-
-💡 **Passion for Problem-Solving:** I enjoy tackling complex challenges and finding elegant solutions that make a real impact.
-
-🎯 **Goals:** To become a proficient full-stack developer, master cloud technologies, and contribute meaningfully to the open-source ecosystem.
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-</div>
+## 💫 About Me
+- 🔭 I’m currently working on building cool tech and refining my coding skills.  
+- 👯 I’m looking to collaborate on open-source projects and innovative ideas.  
+- 🤝 I’m looking for help exploring advanced Software Engineering concepts.  
+- 🌱 I’m currently learning everything from system design to automation.  
+- 💬 Ask me about coding, debugging, or my favorite coffee recipe ☕.  
+- ⚡ Fun fact: I like to pick up things from scratch.
 
 ---
 
-# 💻 Tech Stack:
-
-<div align="center">
-  
-### Languages & Core Technologies
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  
-  <br/>
-  
-### Frontend & Styling
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  
-  <br/>
-  
-### Backend & Databases
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
-  
-  <br/>
-  
-### Infrastructure & DevOps
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-
-</div>
-
-<br />
-
-**Skills Summary:**
-- **Core:** C, C++, Python, JavaScript, HTML/CSS
-- **Web & Full-stack:** MERN Stack (MongoDB, Express.js, React, Node.js), TailwindCSS
-- **Backend:** Node.js, Express.js, RESTful APIs
-- **Databases:** MongoDB, MySQL, SQL
-- **Infrastructure & Cloud:** Docker, Nginx, AWS
-- **Caching & Messaging:** Redis
-- **Version Control:** Git, GitHub
+## 💻 Tech Stack
+<!-- Example "for-the-badge" shields; add or remove as you like -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-d82c20?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-# 📊 GitHub Stats:
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakydv641&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&border_radius=10)
-
-<br/>
-<br/>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepakydv641&theme=cobalt&hide_border=false&border_radius=10)
-
-</div>
+## 📊 GitHub Stats
+<!-- Replace username in the URLs below with your GitHub username if you change them elsewhere -->
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakydv641&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakydv641&layout=compact&theme=tokyonight)
 
 ---
 
-# 🐍 Snake Animation:
-
-<div align="center">
-
-![Snake animation](https://github.com/deepakydv641/deepakydv641/raw/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# 🎯 Featured Projects:
-
-Coming soon! Check my repositories for exciting projects I'm working on.
+## 🔗 Socials
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
 
 ---
 
-# 📞 Let's Connect:
-
-<div align="center">
-  
-  <a href="https://github.com/deepakydv641" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/deepak-yadav-2024/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  
-  <a href="mailto:deepakydv641@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-  </a>
-
-</div>
-
-<br/>
+## 🔥 Fun animation — Snake
+<!-- small snake animation often used in READMEs -->
+<img src="https://raw.githubusercontent.com/Platane/snk/master/snk.svg" alt="snake" />
 
 ---
 
-<div align="center">
+## 🚀 Want this README in your repo?
+1. Copy the contents of this file into README.md at the root of your repository.  
+2. Commit and push:
+   - git add README.md
+   - git commit -m "chore: add README"
+   - git push
+3. Visit your GitHub profile to confirm it renders nicely.
 
-### ⭐ If you like my work, please consider giving it a star! 
+---
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=deepakydv641.Ydv_Deepak)
-
-</div>
+If you want, I can:
+- Commit this README.md directly into the repository for you (I’ll need repo owner/name and permission), or
+- Customize badges, colors, or the typing lines and socials with your exact handles.
