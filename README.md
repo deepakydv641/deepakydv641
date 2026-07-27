@@ -51,7 +51,7 @@
 
 ## 🔥 Fun animation — Snake
 <!-- small snake animation often used in READMEs -->
-<img src="https://raw.githubusercontent.com/Platane/snk/master/snk.svg" alt="snake" />
+<img src="/workflows/snake.yml" alt="snake" />
 
 ---
 
