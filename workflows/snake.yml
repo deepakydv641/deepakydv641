@@ -1,0 +1,41 @@
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *' # hourly (example)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # avoid running when the actor is the Actions bot (prevent loops)
+    if: github.actor != 'github-actions[bot]'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install pillow imageio  # adjust for your generator
+
+      - name: Generate snake GIF
+        run: |
+          mkdir -p artifacts
+          python scripts/generate_snake.py --out artifacts/snake.gif
+        # adjust to whatever command/script you use to create the animation
+
+      - name: Add & commit generated GIF
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: 'chore: update snake animation'
+          add: 'artifacts/snake.gif'
+          push: true
