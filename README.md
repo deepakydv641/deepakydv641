@@ -1,6 +1,6 @@
 # Hi, I'm Deepak 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007ACC&background=FFFFFF00&center=true&width=800&height=90&lines=Hi%2C+I'm+Deepak+Yadav;Fullstack+Web+Developer+and+exploring+ML+&+AI;I'm+building+cool+tech+and+refining+my+coding+skills;Let's+collaborate!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007ACC&background=FFFFFF00&center=true&width=800&height=90&lines=Hi%2C+I'm+Deepak+Yadav;Fullstack+Web+Developer+and+exploring+ML+,+AI;I'm+building+cool+tech+and+refining+my+coding+skills;Let's+collaborate!)
 
 ---
 
