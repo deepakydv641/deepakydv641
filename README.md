@@ -50,7 +50,7 @@
 ## 🔥 Fun animation — Snake
 <!-- small snake animation often used in READMEs -->
 <!-- Replaced the incorrect `/workflows/snake.yml` image reference with a workflow badge that renders correctly on GitHub. -->
-<img src="https://github.com/deepakydv641/deepakydv641/actions/.github/workflows/snake.yml/badge.svg" alt="snake workflow status" />
+<img src="https://github.com/deepakydv641/deepakydv641/actions/workflows/snake.yml/badge.svg" alt="snake workflow status" />
 
 ---
 
