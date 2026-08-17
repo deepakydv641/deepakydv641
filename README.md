@@ -1,14 +1,14 @@
 # Hi, I'm Deepak 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007ACC&background=FFFFFF00&center=true&width=800&height=90&lines=Hi%2C+I'm+Deepak+Yadav;Fullstack+Web+Developer+and+exploring+ML+,+AI;I'm+building+cool+tech+and+refining+my+coding+skills;Let's+collaborate!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007ACC&background=FFFFFF00&center=true&width=800&height=90&lines=Hi%2C+I'm+Deepak+Yadav;Fullstack+Web+D[...]
 
 ---
 
 ## 💫 About Me
-- 🔭 I’m currently working on building cool tech and refining my coding skills.  
-- 👯 I’m looking to collaborate on open-source projects and innovative ideas.  
-- 🤝 I’m looking for help exploring advanced Software Engineering concepts.  
-- 🌱 I’m currently learning everything from system design to automation.  
+- 🔭 I'm currently working on building cool tech and refining my coding skills.  
+- 👯 I'm looking to collaborate on open-source projects and innovative ideas.  
+- 🤝 I'm looking for help exploring advanced Software Engineering concepts.  
+- 🌱 I'm currently learning everything from system design to automation.  
 - 💬 Ask me about coding, debugging, or my favorite coffee recipe ☕.  
 - ⚡ Fun fact: I like to pick up things from scratch.
 
@@ -22,6 +22,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3c3c37?style=for-the-badge&logo=zod&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -65,5 +66,5 @@
 ---
 
 If you want, I can:
-- Commit this README.md directly into the repository for you (I’ll need repo owner/name and permission), or
+- Commit this README.md directly into the repository for you (I'll need repo owner/name and permission), or
 - Customize badges, colors, or the typing lines and socials with your exact handles.
