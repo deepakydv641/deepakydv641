@@ -1,6 +1,6 @@
 # Hi, I'm Deepak 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007ACC&background=FFFFFF00&center=true&width=800&height=90&lines=Hi%2C+I%27m+Deepak+Yadav;Fullstack+Web+Developer;Open+to+Collaborate)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007ACC&background=FFFFFF00&center=true&width=800&height=90&lines=Hi%2C+I%27m+Deepak+Yadav;Fullstack+Web+Developer;Building+Awesome+Things+With+Code)
 
 ---
 
@@ -47,6 +47,7 @@
 ## 🔗 Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-yadav-57a92a34b)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deepakydv641)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://deepak-portfolio.deepakydv26422.workers.dev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ydv18.deepak@gmail.com)
 
 ---
